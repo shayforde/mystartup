@@ -1,0 +1,32 @@
+p:hover{
+	color:black;
+	background-color:yellow;
+	width: 80%;
+}
+
+h1{
+	color:blue;
+	}
+p{	
+
+	font-size:1.8rem;
+	}
+body{ 
+    background-color:#EFD282; 
+    text-align: center;
+}
+
+	
+.ltcol{
+/*	display:table-cell; */
+	padding-left:10%;
+	padding-top:2%;
+	padding-bottom:2%;
+	
+	background:#ffaa88; 
+  margin-left:15%; 
+	width:61%;
+	text-align:left;
+	border-radius:2em;
+}
+

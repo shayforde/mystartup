@@ -1,0 +1,101 @@
+air_on_g
+Bowie David - Letter To Hermione tab
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------#
+#
+
+Letter to Hermione - David Bowie
+(from Space Oddity album)
+
+This is one of the most beautiful songs from Bowie. I've been looking for
+it for some time but I haven't been able to find it so I thougt I'd figure
+it out myself. If you listen to the record you can hear that there are more
+than one guitar, or at least a twelve-string.
+
+Intro (Hum along with the intro following the same notes).
+E ---------------------------|-------------------------------------|
+B ---------------------------|-------------------------------------|
+G ---------------------------|-------------------------------------|
+D --------------------2---5--|--------------------2---5---4-4p2--2-|
+A -------2---3---5-----------|-------2---3---5---------------------|
+E ---5-----------------------|---5---------------------------------|
+
+E ---------------------------|-------------------------------------|
+B ---------------------------|-------------------------------------|
+G ---------------------------|---4---2p0---------------------------|
+D --------------------2---5--|-------------2--2--------------------|
+A -------2---3---5-----------|-------------------------------------|
+E ---5-----------------------|-------------------------------------|
+
+
+Chords Used:
+
+         E A D G B E
+
+Am7      x 0 2 0 1 0
+C/G      3 3 2 0 1 0
+(Gmaj    3 2 0 0 1 0)
+Em7sus4  0 2 0 2 0 0
+Em7sus4* 0 2 0 2 3 0
+Em*      0 0 2 0 0 0
+C/G*     3 3 2 0 0 0
+
+(When you're changing from the C/G chord back to Am7 you can use the
+Gmaj as a link between the chords to make it sound more Bowie).
+
+
+Verse1.
+
+    Am7                                    C/G
+The hand that wrote this letter Sweeps the pillow clean
+Am7                          C/G
+So rest your head and read a treasured dream
+Em7sus4                    Em*
+I care for no one else but you
+                            C/G*
+I tear my soul to cease the pain
+                           Em7sus4*
+I think maybe you feel the same
+            Em*
+What can we do?
+C/G*                            Em7sus4
+I'm not quite sure what we're supposed to do
+Em*
+So I've been writing just for you
+
+Verse2.
+
+They say your life is going very well
+They say you sparkle like a different girl
+But something tells me that you hide
+When all the world is warm and tired
+You cry a little in the dark
+Well so do I
+I'm not quite sure what you're supposed to say
+But I can see it's not okay
+
+
+Verse3.
+
+He makes you laugh
+He brings you out in style
+He treats you well
+And makes you up real fine
+And when he's strong
+He's strong for you
+And when you kiss
+It's something new
+But did you ever call my name
+Just by mistake?
+I'm not quite sure what I'm supposed to do
+So I'll just write some love to you
+
+===============================================================================
+Johan Sundin                             |           Felix qui potuit rerum
+johan.sundin@stockholm.mail.telia.com    |           cognoscere causas.
+-------------------------------------------------------------------------------
+Any corrections are welcome!
+===============================================================================

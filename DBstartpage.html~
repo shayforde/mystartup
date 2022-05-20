@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+ <HTML>
+ <HEAD>
+ <style>
+ .yahoo{
+	background:#abcdef;
+	}
+yahoo2{
+	background:#Fbcdef;
+	}
+
+ </style>
+ <TITLE>
+Shay's Startup Page 
+</TITLE>
+ </HEAD>
+ <BODY>
+ <center>
+ <H1>Shay's Links</H1>
+ <div class=wrapper>
+ <div class=yahoo>
+ <h2>Shay's Links</h2> 
+<p><li><a href="http://www.gamedev.net"> Gamedev </a></li></p>
+<p><li><a href="http://www.rte.ie"> RTE </a></li></p>
+<p><li><a href="http://www.yahoo.com"> yahoo </a></li></p>
+<yahoo2>
+<p><li><a href="http://www.dropbox.com"> Dropbox </a></li></p>
+</yahoo2>
+<p><li><a href="http://www.goduckgo.com"> GoDuckGo </a></li></p>
+<p><li><a href="http://www.youtube.com"> Youtube </a></li></p>
+<p><li><a href="http://www.msn.com"> MSN </a></li></p>
+<!--<p><li><a href="https://dl.dropboxusercontent.com/u/79441161/musictabs/musicIndex.html"> Music Tabs </a></li></p> -->
+<p><li><a href=".//musictabs/musicIndex.html"> Music Tabs </a></li></p>
+</div>
+
+</div>
+</center>
+
+</BODY>
+ </HTML>
+
